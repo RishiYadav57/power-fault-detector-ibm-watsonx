@@ -1,0 +1,7 @@
+Instructions for configuring fault detection system:
+
+1. Upload the dataset to IBM Cloud.
+2. Launch Watsonx.ai Studio and start a new project.
+3. Use AutoAI or manual notebook to analyze the dataset.
+4. Select classification model and tune hyperparameters.
+5. Evaluate with confusion matrix and deploy.
